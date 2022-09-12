@@ -1,1 +1,3 @@
 # design_patterns_study
+设计模式 个人学习demo及笔记
+参考于 bilibili up主：遇见狂神说、黑马程序员、尚硅谷等...
